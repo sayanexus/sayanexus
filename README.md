@@ -1,4 +1,4 @@
-# Hey, I'm Sayan 👋
+# Hey, it's sayanexus 👋
 
 ### Developer · AI/ML Explorer · Problem Solver
 
