@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="1e684d15ad21997f1a92adfae922cfe5" src="https://github.com/user-attachments/assets/56b2fe2a-e026-4d12-bdf0-7fc9bcf03e13" />
+
 # Hey, it's sayanexus 👋
 
 ### Developer · AI/ML Explorer · Problem Solver
