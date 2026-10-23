@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="1e684d15ad21997f1a92adfae922cfe5" src="https://github.com/user-attachments/assets/56b2fe2a-e026-4d12-bdf0-7fc9bcf03e13" />
+<img width="1920" height="559" alt="train_pixel" src="https://github.com/user-attachments/assets/79c9028c-3584-4f04-a15d-d94fbcb50f3c" />
 
 # Hey, it's sayanexus 👋
 
