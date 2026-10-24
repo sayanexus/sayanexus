@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/79c9028c-3584-4f04-a15d-d94fbcb50f3c" width="70%" alt="train_pixel" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79c9028c-3584-4f04-a15d-d94fbcb50f3c" width="50%" alt="train_pixel" />
+</p>
 
 # Hey, it's sayanexus 👋
 
